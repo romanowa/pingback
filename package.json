@@ -1,0 +1,15 @@
+{
+  "name": "new-pingback",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ilya Dovban <ilya.dovban@myjar.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
